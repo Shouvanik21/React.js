@@ -5,7 +5,10 @@ import './App.css'
 function App() {
   return (
     <>
-      <ProfileCard/>
+      <div className="main">
+        <ProfileCard/>
+        <ProfileCard/>
+      </div>      
     </>
   );
 }
