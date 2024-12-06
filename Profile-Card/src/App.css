@@ -13,20 +13,24 @@
   text-align: center;
   border-radius: 10px;
   box-shadow: 5px 5px 5px hsla(0, 1%, 20%, 0.579);
+  background-color: #f2f0ef;
 }
 
-.container .profile-pic{
+.profile-pic{
   height: 75%;
   width: 75%;
   margin-top: 5px;
   margin-bottom: 10px;
   border-radius: 50%;
+  border: 2px solid hsla(0, 0%, 24%, 0.856);
 }
 
-.container .profile-title{
+.profile-title{
   margin-bottom: 10px;
+  background-color: #f2f0ef;
 }
 
-.container .profile-description{
+.profile-description{
   font-weight: 300;
+  background-color: #f2f0ef;
 }
