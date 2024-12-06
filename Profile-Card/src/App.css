@@ -12,8 +12,7 @@
   border: 1px solid black;
   text-align: center;
   border-radius: 10px;
-  box-shadow: 5px 5px 5px hsla(0, 0%, 0%, 0.501);
-
+  box-shadow: 5px 5px 5px hsla(0, 1%, 20%, 0.579);
 }
 
 .container .profile-pic{
@@ -29,5 +28,5 @@
 }
 
 .container .profile-description{
-  
+  font-weight: 300;
 }
