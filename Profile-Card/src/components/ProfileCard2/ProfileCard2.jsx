@@ -6,8 +6,8 @@ function ProfileCard2(){
         <>
             <div className="container2">
                 <img className="profile-pic2" src={ProfilePic2} alt="profile pic"></img>
-                <h2 className="profile-title2">Atreon88</h2>
-                <p className="profile-description2">This is Atreon88 who is an youtuber and loves to play video games and football</p>
+                <h2 className="profile-title2">Xephen77</h2>
+                <p className="profile-description2">This is Xephen77 who is an youtuber and loves to play video games and baseball</p>
             </div>            
         </>
     );

@@ -1,4 +1,4 @@
-import ProfilePic1 from "./img1.jpg"
+import ProfilePic1 from "../../assets/img1.jpg"
 import './ProfileCard1.css'
 
 function ProfileCard1(){
