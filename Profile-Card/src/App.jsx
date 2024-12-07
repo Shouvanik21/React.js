@@ -6,8 +6,10 @@ import "./App.css"
 function App() {
   return (
     <>
-      <ProfileCard1/>  
-      <ProfileCard2/>    
+      <div className="main">
+        <ProfileCard1/>  
+        <ProfileCard2/>
+      </div>          
     </>
   );
 }
